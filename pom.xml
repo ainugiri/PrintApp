@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>atos</groupId>
   <artifactId>PrintApp</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <name>PrintApp</name>
   <description>PrintApp</description>
   <properties>
